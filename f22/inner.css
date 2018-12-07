@@ -1,0 +1,53 @@
+section{
+    float: left;
+}
+
+body{
+    color:white;
+    padding:10px;
+    background-color:black;
+    
+}
+#c ul li {
+    display: inline;
+    
+}
+#b ul {
+    text-decoration: none;
+    
+}
+
+.glyphicon-option-horizontal{
+    margin-left: 100px;
+    margin-right: -10px;
+}
+#b{
+    background-color:grey;
+    padding: 2px;
+    margin-left:0%;
+    padding-right: 100px;
+    text-decoration: none;
+    padding-bottom: 74px;
+}
+#b a{
+    color: white;
+    list-style-type:none;
+}
+#c{
+        background-color:burlywood;
+        padding: 2px;
+        padding-right: 20px;
+
+}
+#a{
+
+    padding: 2px;
+}
+
+#a ul li{
+    list-style-type: none;
+    padding: 2px;
+    padding-top: 0px;
+   margin-bottom: 10%;
+    
+}

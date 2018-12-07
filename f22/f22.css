@@ -1,0 +1,23 @@
+form{
+
+    margin-left:30%;
+    margin-right: 30%; 
+    padding: 5px;
+    border: 0.2px solid indigo;
+}
+li{
+    display: inline-block;
+     text-decoration: none;
+}
+
+img{
+    border:none;
+}
+section{
+    padding:10px;
+    background-color: green;
+    margin-bottom:100px;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
